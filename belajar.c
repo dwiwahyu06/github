@@ -2,5 +2,7 @@
 
 void main(){
     printf("belajar");
+
+    printf("dwi wahyu");
     printf("saya");
 }
